@@ -1,0 +1,10 @@
+__pycache__/
+  *.pyc
+  weights/
+  data/
+  experiments/
+  data_prep/deepfakebench_prep/*
+  !data_prep/deepfakebench_prep/README.md
+  *.pt
+  *.pth
+  *.npz
